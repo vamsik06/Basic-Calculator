@@ -1,0 +1,28 @@
+body{
+    background-image: url(top-view-blue-calculator-notepad-color-background_260672-4055.avif);
+    text-align: center;
+    background-color: cadetblue;
+    margin-top: 100px;
+    background-size: cover;
+   
+}
+table{
+    margin-left: 615px;
+    
+}
+input[type=text]{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background:transparent;
+    margin-left: 70px;
+}
+button{
+    width: 87px;
+    height: 50px;
+    border-radius: 10px;
+    background:transparent;
+}
+button:hover{
+    background-color: aliceblue;
+}
